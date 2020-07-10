@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**aaavinash85/aaavinash85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I am Avinash Koshal
+ [![Linkedin Badge](https://img.shields.io/badge/-Avinashkoshal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinashkoshal/)](https://www.linkedin.com/in/avinashkoshal/) 
+[![Gmail Badge](https://img.shields.io/badge/-avinashkoshal0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avinashkoshal0@gmail.com)](mailto:avinashkoshal0@gmail.com)
+---
+## I'm a Computer Vision Nanodegree Graduate. <br>
+   
+  <br>
+    <img src="https://blog.uwohoo.com/wp-content/uploads/2019/03/developer.jpg">
+ </abc>
+</h3> 
