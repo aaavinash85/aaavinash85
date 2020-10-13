@@ -11,6 +11,7 @@ I am a CSE student who is mainly into Computer Vision but also have a taste for 
 ![](https://img.shields.io/badge/OpenCV-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Python-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/C++-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud(AWS)-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Linux-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Openvino-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Tensorflow-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Git_&_GitHub-%3C%2F%3E-blueviolet)
 
 ## Rem
+- Organised J&K first 36 hour International Level Hackathon (hackthemountains.tech)
 - Regional Technical Head GirlScript
 - GirlScript India Summit <b> Mentor</b>
 - Project Selected in Google Explore ML Academy
