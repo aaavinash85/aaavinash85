@@ -5,7 +5,7 @@
 ---
 
 ## 🧐 About
-I am a CSE student who is mainly into Computer Vision but also have a taste for Machine Learning, Data Science, web and Cloud. I love Open Source Communities and have been working with them for a while now. Apart from this I love to Teach and have been delivering Workshops and sessions on Basic Programming, web-dev and Basics of Computer Vision. last but not least I am a Minimalist and Otaku
+Cloud Support Associate at AWS who is mainly into cloud, linux but also have a taste for Computer Vision , Machine Learning, Data Science, web and Cloud. I love Open Source Communities and have been working with them for a while now. Apart from this I love to Teach and have been delivering Workshops and sessions on Basic Programming, web-dev and Basics of Computer Vision. last but not least I am a Minimalist and Otaku
 
 ### :man_technologist: Skills
 ![](https://img.shields.io/badge/OpenCV-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Python-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/C++-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cloud(AWS)-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Linux-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Openvino-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Tensorflow-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Git_&_GitHub-%3C%2F%3E-blueviolet)
